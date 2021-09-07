@@ -1,0 +1,126 @@
+#intro{
+    background: #0c0c0c;
+    height: 35rem;
+}
+.stic .logo img{
+    position: sticky;
+    overflow: hidden;
+    top: 0;
+    z-index: 6;
+}
+.heading h1{
+    text-align: center;
+    font-weight: 900;
+    color: #ff63bd;
+    font-size: 3.5rem;
+    text-align: center;
+    text-shadow: 0 0 0;
+    padding-bottom: 3.125rem;
+}
+.heading p{
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-align: center;
+    color:#fff;
+    text-shadow:0 0 0;
+}
+
+
+.containerss{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.faizan{
+    height: 50rem;
+}
+#clients{
+    height: 25rem;
+    margin: 0;
+}
+.logoo-2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.picc{
+    display: none;
+    background:0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    flex: 1;
+}
+#clients .logoo-2 img{
+    width: 60px;
+    height: 60px;
+}
+
+#contactt{
+
+    display:flex;
+    flex-direction: column;
+    height: 1200px;
+}
+#contactt .map, #contactt .contact-form{
+    width: 100%;
+    flex-wrap: wrap;
+}
+#contact .contact-form{
+    display: inline;
+}
+#contact .map{
+    display: inline;
+}
+.contact-form  p{
+    line-height: 1.2;
+}
+.contact-form  h2{
+    margin: 10px;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    height: 17rem;
+}
+.button{
+    display: flex;
+    flex-direction: column;
+}
+#sticky{
+    display: block;
+    position: relative;
+    overflow: auto;
+}
+.pad{
+    margin: 10px 0;;
+
+
+}
+.log {
+    display: flex;
+    align-items: center;
+}
+.written p{
+    font-size: 17px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+.written h3{
+    font-weight:900;
+}
+.container-1{
+    margin: 10px 0;
+}
+.headd h1{
+    font-size: 45px;
+}
+.footer{
+    height: 7rem;
+}
+.whatwedo h2{
+    font-size: 2.5rem;
+    font-weight: 900;
+
+}
