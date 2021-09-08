@@ -62,7 +62,7 @@ p{
 }
 #intro{
     height:100vh;
-    background: url('https://github.com/Zeus2480/Localzod/blob/main/mainpic.jpg');
+    background: url('./mainpic.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -192,7 +192,7 @@ p{
     display: flex;
 }
 .picc{
-    background: url('Localzod(project)/secondarypic.jpg');
+    background: url('./secondarypic.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
